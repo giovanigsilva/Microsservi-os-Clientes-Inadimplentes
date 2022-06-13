@@ -10,6 +10,8 @@ Também foi utilizado
 Pomelo.EntityFrameworkCore
 Razor
 MySQL WorkBench
+SwashBuckle
+
 
 ![projeto executando](https://user-images.githubusercontent.com/39173940/173264836-8a894a97-3c3e-426d-aa8f-8f641e037c65.png)
 
