@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32526.322
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VApp.ClientesApi", "..\loja virtual\VShop\VShop.ProductApi\VApp.ClientesApi.csproj", "{2FF203DB-DBC1-47B2-BF4B-B130186187AB}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GerenciadorClientes.Web", "..\loja virtual\VShop\VShopWeb\GerenciadorClientes.Web.csproj", "{733829A2-41A0-4680-A05F-A413A474CFE8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2FF203DB-DBC1-47B2-BF4B-B130186187AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2FF203DB-DBC1-47B2-BF4B-B130186187AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2FF203DB-DBC1-47B2-BF4B-B130186187AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2FF203DB-DBC1-47B2-BF4B-B130186187AB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{733829A2-41A0-4680-A05F-A413A474CFE8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{733829A2-41A0-4680-A05F-A413A474CFE8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{733829A2-41A0-4680-A05F-A413A474CFE8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{733829A2-41A0-4680-A05F-A413A474CFE8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AD5B00C9-8525-4038-B082-FC9F0B3DDE15}
+	EndGlobalSection
+EndGlobal
