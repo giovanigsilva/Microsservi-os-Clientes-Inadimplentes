@@ -1,0 +1,52 @@
+C:\meus projetos\loja virtual\VShop\VShopWeb\bin\Debug\net6.0\appsettings.Development.json
+C:\meus projetos\loja virtual\VShop\VShopWeb\bin\Debug\net6.0\appsettings.json
+C:\meus projetos\loja virtual\VShop\VShopWeb\bin\Debug\net6.0\GerenciadorClientes.Web.staticwebassets.runtime.json
+C:\meus projetos\loja virtual\VShop\VShopWeb\bin\Debug\net6.0\GerenciadorClientes.Web.exe
+C:\meus projetos\loja virtual\VShop\VShopWeb\bin\Debug\net6.0\GerenciadorClientes.Web.deps.json
+C:\meus projetos\loja virtual\VShop\VShopWeb\bin\Debug\net6.0\GerenciadorClientes.Web.runtimeconfig.json
+C:\meus projetos\loja virtual\VShop\VShopWeb\bin\Debug\net6.0\GerenciadorClientes.Web.dll
+C:\meus projetos\loja virtual\VShop\VShopWeb\bin\Debug\net6.0\GerenciadorClientes.Web.pdb
+C:\meus projetos\loja virtual\VShop\VShopWeb\obj\Debug\net6.0\GerenciadorClientes.Web.csproj.AssemblyReference.cache
+C:\meus projetos\loja virtual\VShop\VShopWeb\obj\Debug\net6.0\GerenciadorClientes.Web.GeneratedMSBuildEditorConfig.editorconfig
+C:\meus projetos\loja virtual\VShop\VShopWeb\obj\Debug\net6.0\GerenciadorClientes.Web.AssemblyInfoInputs.cache
+C:\meus projetos\loja virtual\VShop\VShopWeb\obj\Debug\net6.0\GerenciadorClientes.Web.AssemblyInfo.cs
+C:\meus projetos\loja virtual\VShop\VShopWeb\obj\Debug\net6.0\GerenciadorClientes.Web.csproj.CoreCompileInputs.cache
+C:\meus projetos\loja virtual\VShop\VShopWeb\obj\Debug\net6.0\GerenciadorClientes.Web.MvcApplicationPartsAssemblyInfo.cache
+C:\meus projetos\loja virtual\VShop\VShopWeb\obj\Debug\net6.0\GerenciadorClientes.Web.RazorAssemblyInfo.cache
+C:\meus projetos\loja virtual\VShop\VShopWeb\obj\Debug\net6.0\GerenciadorClientes.Web.RazorAssemblyInfo.cs
+C:\meus projetos\loja virtual\VShop\VShopWeb\obj\Debug\net6.0\staticwebassets.build.json
+C:\meus projetos\loja virtual\VShop\VShopWeb\obj\Debug\net6.0\staticwebassets.development.json
+C:\meus projetos\loja virtual\VShop\VShopWeb\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\meus projetos\loja virtual\VShop\VShopWeb\obj\Debug\net6.0\scopedcss\bundle\GerenciadorClientes.Web.styles.css
+C:\meus projetos\loja virtual\VShop\VShopWeb\obj\Debug\net6.0\scopedcss\projectbundle\GerenciadorClientes.Web.bundle.scp.css
+C:\meus projetos\loja virtual\VShop\VShopWeb\obj\Debug\net6.0\GerenciadorClientes.Web.dll
+C:\meus projetos\loja virtual\VShop\VShopWeb\obj\Debug\net6.0\refint\GerenciadorClientes.Web.dll
+C:\meus projetos\loja virtual\VShop\VShopWeb\obj\Debug\net6.0\GerenciadorClientes.Web.pdb
+C:\meus projetos\loja virtual\VShop\VShopWeb\obj\Debug\net6.0\GerenciadorClientes.Web.genruntimeconfig.cache
+C:\meus projetos\loja virtual\VShop\VShopWeb\obj\Debug\net6.0\ref\GerenciadorClientes.Web.dll
+C:\meus projetos\controle de Clientes Inadimplentes\VShopWeb\bin\Debug\net6.0\appsettings.Development.json
+C:\meus projetos\controle de Clientes Inadimplentes\VShopWeb\bin\Debug\net6.0\appsettings.json
+C:\meus projetos\controle de Clientes Inadimplentes\VShopWeb\bin\Debug\net6.0\GerenciadorClientes.Web.staticwebassets.runtime.json
+C:\meus projetos\controle de Clientes Inadimplentes\VShopWeb\bin\Debug\net6.0\GerenciadorClientes.Web.exe
+C:\meus projetos\controle de Clientes Inadimplentes\VShopWeb\bin\Debug\net6.0\GerenciadorClientes.Web.deps.json
+C:\meus projetos\controle de Clientes Inadimplentes\VShopWeb\bin\Debug\net6.0\GerenciadorClientes.Web.runtimeconfig.json
+C:\meus projetos\controle de Clientes Inadimplentes\VShopWeb\bin\Debug\net6.0\GerenciadorClientes.Web.dll
+C:\meus projetos\controle de Clientes Inadimplentes\VShopWeb\bin\Debug\net6.0\GerenciadorClientes.Web.pdb
+C:\meus projetos\controle de Clientes Inadimplentes\VShopWeb\obj\Debug\net6.0\GerenciadorClientes.Web.csproj.AssemblyReference.cache
+C:\meus projetos\controle de Clientes Inadimplentes\VShopWeb\obj\Debug\net6.0\GerenciadorClientes.Web.GeneratedMSBuildEditorConfig.editorconfig
+C:\meus projetos\controle de Clientes Inadimplentes\VShopWeb\obj\Debug\net6.0\GerenciadorClientes.Web.AssemblyInfoInputs.cache
+C:\meus projetos\controle de Clientes Inadimplentes\VShopWeb\obj\Debug\net6.0\GerenciadorClientes.Web.AssemblyInfo.cs
+C:\meus projetos\controle de Clientes Inadimplentes\VShopWeb\obj\Debug\net6.0\GerenciadorClientes.Web.csproj.CoreCompileInputs.cache
+C:\meus projetos\controle de Clientes Inadimplentes\VShopWeb\obj\Debug\net6.0\GerenciadorClientes.Web.MvcApplicationPartsAssemblyInfo.cache
+C:\meus projetos\controle de Clientes Inadimplentes\VShopWeb\obj\Debug\net6.0\GerenciadorClientes.Web.RazorAssemblyInfo.cache
+C:\meus projetos\controle de Clientes Inadimplentes\VShopWeb\obj\Debug\net6.0\GerenciadorClientes.Web.RazorAssemblyInfo.cs
+C:\meus projetos\controle de Clientes Inadimplentes\VShopWeb\obj\Debug\net6.0\staticwebassets.build.json
+C:\meus projetos\controle de Clientes Inadimplentes\VShopWeb\obj\Debug\net6.0\staticwebassets.development.json
+C:\meus projetos\controle de Clientes Inadimplentes\VShopWeb\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\meus projetos\controle de Clientes Inadimplentes\VShopWeb\obj\Debug\net6.0\scopedcss\bundle\GerenciadorClientes.Web.styles.css
+C:\meus projetos\controle de Clientes Inadimplentes\VShopWeb\obj\Debug\net6.0\scopedcss\projectbundle\GerenciadorClientes.Web.bundle.scp.css
+C:\meus projetos\controle de Clientes Inadimplentes\VShopWeb\obj\Debug\net6.0\GerenciadorClientes.Web.dll
+C:\meus projetos\controle de Clientes Inadimplentes\VShopWeb\obj\Debug\net6.0\refint\GerenciadorClientes.Web.dll
+C:\meus projetos\controle de Clientes Inadimplentes\VShopWeb\obj\Debug\net6.0\GerenciadorClientes.Web.pdb
+C:\meus projetos\controle de Clientes Inadimplentes\VShopWeb\obj\Debug\net6.0\GerenciadorClientes.Web.genruntimeconfig.cache
+C:\meus projetos\controle de Clientes Inadimplentes\VShopWeb\obj\Debug\net6.0\ref\GerenciadorClientes.Web.dll

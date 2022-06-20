@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "aSqoEVh+emwKeiySaeh0PFwRHSuY/xh0xSdO67nv4Fo=",
+  "Source": "VApp.ClientesApi",
+  "BasePath": "_content/VApp.ClientesApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "VApp.ClientesApi\\wwwroot",
+      "Source": "VApp.ClientesApi",
+      "ContentRoot": "C:\\meus projetos\\controle de Clientes Inadimplentes\\VShop.ProductApi\\wwwroot\\",
+      "BasePath": "_content/VApp.ClientesApi",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}

@@ -1,0 +1,82 @@
+C:\meus projetos\loja virtual\VShop\VShop.ProductApi\bin\Debug\net6.0\appsettings.Development.json
+C:\meus projetos\loja virtual\VShop\VShop.ProductApi\bin\Debug\net6.0\appsettings.json
+C:\meus projetos\loja virtual\VShop\VShop.ProductApi\bin\Debug\net6.0\VApp.ClientesApi.staticwebassets.runtime.json
+C:\meus projetos\loja virtual\VShop\VShop.ProductApi\bin\Debug\net6.0\VApp.ClientesApi.exe
+C:\meus projetos\loja virtual\VShop\VShop.ProductApi\bin\Debug\net6.0\VApp.ClientesApi.deps.json
+C:\meus projetos\loja virtual\VShop\VShop.ProductApi\bin\Debug\net6.0\VApp.ClientesApi.runtimeconfig.json
+C:\meus projetos\loja virtual\VShop\VShop.ProductApi\bin\Debug\net6.0\VApp.ClientesApi.dll
+C:\meus projetos\loja virtual\VShop\VShop.ProductApi\bin\Debug\net6.0\VApp.ClientesApi.pdb
+C:\meus projetos\loja virtual\VShop\VShop.ProductApi\bin\Debug\net6.0\AutoMapper.dll
+C:\meus projetos\loja virtual\VShop\VShop.ProductApi\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\meus projetos\loja virtual\VShop\VShop.ProductApi\bin\Debug\net6.0\Humanizer.dll
+C:\meus projetos\loja virtual\VShop\VShop.ProductApi\bin\Debug\net6.0\System.Net.Http.Formatting.dll
+C:\meus projetos\loja virtual\VShop\VShop.ProductApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\meus projetos\loja virtual\VShop\VShop.ProductApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\meus projetos\loja virtual\VShop\VShop.ProductApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\meus projetos\loja virtual\VShop\VShop.ProductApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\meus projetos\loja virtual\VShop\VShop.ProductApi\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\meus projetos\loja virtual\VShop\VShop.ProductApi\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\meus projetos\loja virtual\VShop\VShop.ProductApi\bin\Debug\net6.0\MySqlConnector.dll
+C:\meus projetos\loja virtual\VShop\VShop.ProductApi\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\meus projetos\loja virtual\VShop\VShop.ProductApi\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+C:\meus projetos\loja virtual\VShop\VShop.ProductApi\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\meus projetos\loja virtual\VShop\VShop.ProductApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\meus projetos\loja virtual\VShop\VShop.ProductApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\meus projetos\loja virtual\VShop\VShop.ProductApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\meus projetos\loja virtual\VShop\VShop.ProductApi\obj\Debug\net6.0\VApp.ClientesApi.csproj.AssemblyReference.cache
+C:\meus projetos\loja virtual\VShop\VShop.ProductApi\obj\Debug\net6.0\VApp.ClientesApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\meus projetos\loja virtual\VShop\VShop.ProductApi\obj\Debug\net6.0\VApp.ClientesApi.AssemblyInfoInputs.cache
+C:\meus projetos\loja virtual\VShop\VShop.ProductApi\obj\Debug\net6.0\VApp.ClientesApi.AssemblyInfo.cs
+C:\meus projetos\loja virtual\VShop\VShop.ProductApi\obj\Debug\net6.0\VApp.ClientesApi.csproj.CoreCompileInputs.cache
+C:\meus projetos\loja virtual\VShop\VShop.ProductApi\obj\Debug\net6.0\VApp.ClientesApi.MvcApplicationPartsAssemblyInfo.cs
+C:\meus projetos\loja virtual\VShop\VShop.ProductApi\obj\Debug\net6.0\VApp.ClientesApi.MvcApplicationPartsAssemblyInfo.cache
+C:\meus projetos\loja virtual\VShop\VShop.ProductApi\obj\Debug\net6.0\staticwebassets.build.json
+C:\meus projetos\loja virtual\VShop\VShop.ProductApi\obj\Debug\net6.0\staticwebassets.development.json
+C:\meus projetos\loja virtual\VShop\VShop.ProductApi\obj\Debug\net6.0\scopedcss\bundle\VApp.ClientesApi.styles.css
+C:\meus projetos\loja virtual\VShop\VShop.ProductApi\obj\Debug\net6.0\VApp.ClientesApi.csproj.CopyComplete
+C:\meus projetos\loja virtual\VShop\VShop.ProductApi\obj\Debug\net6.0\VApp.ClientesApi.dll
+C:\meus projetos\loja virtual\VShop\VShop.ProductApi\obj\Debug\net6.0\refint\VApp.ClientesApi.dll
+C:\meus projetos\loja virtual\VShop\VShop.ProductApi\obj\Debug\net6.0\VApp.ClientesApi.pdb
+C:\meus projetos\loja virtual\VShop\VShop.ProductApi\obj\Debug\net6.0\VApp.ClientesApi.genruntimeconfig.cache
+C:\meus projetos\loja virtual\VShop\VShop.ProductApi\obj\Debug\net6.0\ref\VApp.ClientesApi.dll
+C:\meus projetos\controle de Clientes Inadimplentes\VShop.ProductApi\bin\Debug\net6.0\appsettings.Development.json
+C:\meus projetos\controle de Clientes Inadimplentes\VShop.ProductApi\bin\Debug\net6.0\appsettings.json
+C:\meus projetos\controle de Clientes Inadimplentes\VShop.ProductApi\bin\Debug\net6.0\VApp.ClientesApi.staticwebassets.runtime.json
+C:\meus projetos\controle de Clientes Inadimplentes\VShop.ProductApi\bin\Debug\net6.0\VApp.ClientesApi.exe
+C:\meus projetos\controle de Clientes Inadimplentes\VShop.ProductApi\bin\Debug\net6.0\VApp.ClientesApi.deps.json
+C:\meus projetos\controle de Clientes Inadimplentes\VShop.ProductApi\bin\Debug\net6.0\VApp.ClientesApi.runtimeconfig.json
+C:\meus projetos\controle de Clientes Inadimplentes\VShop.ProductApi\bin\Debug\net6.0\VApp.ClientesApi.dll
+C:\meus projetos\controle de Clientes Inadimplentes\VShop.ProductApi\bin\Debug\net6.0\VApp.ClientesApi.pdb
+C:\meus projetos\controle de Clientes Inadimplentes\VShop.ProductApi\bin\Debug\net6.0\AutoMapper.dll
+C:\meus projetos\controle de Clientes Inadimplentes\VShop.ProductApi\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\meus projetos\controle de Clientes Inadimplentes\VShop.ProductApi\bin\Debug\net6.0\Humanizer.dll
+C:\meus projetos\controle de Clientes Inadimplentes\VShop.ProductApi\bin\Debug\net6.0\System.Net.Http.Formatting.dll
+C:\meus projetos\controle de Clientes Inadimplentes\VShop.ProductApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\meus projetos\controle de Clientes Inadimplentes\VShop.ProductApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\meus projetos\controle de Clientes Inadimplentes\VShop.ProductApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\meus projetos\controle de Clientes Inadimplentes\VShop.ProductApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\meus projetos\controle de Clientes Inadimplentes\VShop.ProductApi\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\meus projetos\controle de Clientes Inadimplentes\VShop.ProductApi\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\meus projetos\controle de Clientes Inadimplentes\VShop.ProductApi\bin\Debug\net6.0\MySqlConnector.dll
+C:\meus projetos\controle de Clientes Inadimplentes\VShop.ProductApi\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\meus projetos\controle de Clientes Inadimplentes\VShop.ProductApi\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+C:\meus projetos\controle de Clientes Inadimplentes\VShop.ProductApi\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\meus projetos\controle de Clientes Inadimplentes\VShop.ProductApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\meus projetos\controle de Clientes Inadimplentes\VShop.ProductApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\meus projetos\controle de Clientes Inadimplentes\VShop.ProductApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\meus projetos\controle de Clientes Inadimplentes\VShop.ProductApi\obj\Debug\net6.0\VApp.ClientesApi.csproj.AssemblyReference.cache
+C:\meus projetos\controle de Clientes Inadimplentes\VShop.ProductApi\obj\Debug\net6.0\VApp.ClientesApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\meus projetos\controle de Clientes Inadimplentes\VShop.ProductApi\obj\Debug\net6.0\VApp.ClientesApi.AssemblyInfoInputs.cache
+C:\meus projetos\controle de Clientes Inadimplentes\VShop.ProductApi\obj\Debug\net6.0\VApp.ClientesApi.AssemblyInfo.cs
+C:\meus projetos\controle de Clientes Inadimplentes\VShop.ProductApi\obj\Debug\net6.0\VApp.ClientesApi.csproj.CoreCompileInputs.cache
+C:\meus projetos\controle de Clientes Inadimplentes\VShop.ProductApi\obj\Debug\net6.0\VApp.ClientesApi.MvcApplicationPartsAssemblyInfo.cs
+C:\meus projetos\controle de Clientes Inadimplentes\VShop.ProductApi\obj\Debug\net6.0\VApp.ClientesApi.MvcApplicationPartsAssemblyInfo.cache
+C:\meus projetos\controle de Clientes Inadimplentes\VShop.ProductApi\obj\Debug\net6.0\staticwebassets.build.json
+C:\meus projetos\controle de Clientes Inadimplentes\VShop.ProductApi\obj\Debug\net6.0\staticwebassets.development.json
+C:\meus projetos\controle de Clientes Inadimplentes\VShop.ProductApi\obj\Debug\net6.0\scopedcss\bundle\VApp.ClientesApi.styles.css
+C:\meus projetos\controle de Clientes Inadimplentes\VShop.ProductApi\obj\Debug\net6.0\VApp.ClientesApi.csproj.CopyComplete
+C:\meus projetos\controle de Clientes Inadimplentes\VShop.ProductApi\obj\Debug\net6.0\VApp.ClientesApi.dll
+C:\meus projetos\controle de Clientes Inadimplentes\VShop.ProductApi\obj\Debug\net6.0\refint\VApp.ClientesApi.dll
+C:\meus projetos\controle de Clientes Inadimplentes\VShop.ProductApi\obj\Debug\net6.0\VApp.ClientesApi.pdb
+C:\meus projetos\controle de Clientes Inadimplentes\VShop.ProductApi\obj\Debug\net6.0\VApp.ClientesApi.genruntimeconfig.cache
+C:\meus projetos\controle de Clientes Inadimplentes\VShop.ProductApi\obj\Debug\net6.0\ref\VApp.ClientesApi.dll

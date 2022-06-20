@@ -1,0 +1,70 @@
+﻿@model IEnumerable<VShop.Web.Models.ClienteViewModel>
+
+<h2>Clientes</h2>
+<hr />
+
+<div class="row">
+    <div class="col-md-12">
+        <div>
+            <div class="pull-left">
+                <a asp-action="CreateCliente" class="btn btn-primary">
+                    <span title="Create New" class="fas fa-plus"></span> New Product
+                </a>
+            </div>
+            
+        </div>
+    </div>
+</div>
+<br />
+<div class="panel panel-default" >
+    <table class="table" id="table-inadiplentes">
+        <thead>
+            <tr>
+                <th> 
+                    Nome
+                </th>
+                 <th> 
+                    @Html.DisplayNameFor(model => model.Valor)
+                </th>
+                <th> 
+                    @Html.DisplayNameFor(model => model.Desde)
+                </th>
+                <th>
+                    Títulos
+                </th>
+                <th></th>
+            </tr>
+        </thead>
+        <tbody>
+            @if(Model != null)
+            {
+                @foreach (var item in Model)
+                {
+                    <tr>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.Name)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.Valor)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.Desde)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.TituloName)
+                        </td>
+                        <td>
+                            <a asp-action="UpdateCliente" asp-route-id="@item.Id" title="Edita" class="btn btn-warning">
+                                <span class="fas fa-edit"></span>
+                            </a>
+                            <a asp-action="DeleteClienteById" asp-route-id="@item.Id" title="Deleta" class="btn btn-danger">
+                                <span class="fas fa-trash-alt"></span>
+                            </a>
+                        </td>
+                    </tr>
+                }
+            }
+            
+        </tbody>
+    </table>
+</div>
